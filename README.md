@@ -10,6 +10,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [yossefsabry/gotype](https://github.com/yossefsabry/gotype)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [VirusTotal/qt-virustotal-uploader](https://github.com/VirusTotal/qt-virustotal-uploader)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ilyamiro/nixos-configuration](https://github.com/ilyamiro/nixos-configuration)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr)<br>
@@ -19,5 +20,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [floatpane/matcha](https://github.com/floatpane/matcha)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [dj505/RP2040-Zero-KiCAD](https://github.com/dj505/RP2040-Zero-KiCAD)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [rebane2001/x86CSS](https://github.com/rebane2001/x86CSS)<br>
 <!--RECENT_ACTIVITY:end-->
