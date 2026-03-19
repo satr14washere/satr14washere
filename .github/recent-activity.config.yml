@@ -1,10 +1,10 @@
 settings:
-  username: "SX-9"
+  username: "satr14washere"
   max_lines: 10
   line_prefix: "- "
   commit_msg: "Recent Activity"
   commit_name: "Updater"
-  commit_email: "hello@mail.sx9.is-a.dev"
+  commit_email: "admin@satr14.my.id"
   readme_file: "./README.md"
   date:
     #timezone: "WIB"
