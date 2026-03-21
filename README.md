@@ -10,6 +10,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [solusipse/fiche](https://github.com/solusipse/fiche)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#54](https://github.com/partofmyid/register/pull/54#issuecomment-4103432086) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [astro/deadnix](https://github.com/astro/deadnix)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#51](https://github.com/partofmyid/register/issues/51#issuecomment-4103130032) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
@@ -19,5 +20,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/zyrocfnd/freedomain/issues/1#issuecomment-4101816344) **|** [zyrocfnd/freedomain](https://github.com/zyrocfnd/freedomain)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [louis-e/arnis](https://github.com/louis-e/arnis)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)<br>
 <!--RECENT_ACTIVITY:end-->
