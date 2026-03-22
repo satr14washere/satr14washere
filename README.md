@@ -12,7 +12,6 @@
 <!--RECENT_ACTIVITY:start-->
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#34839](https://github.com/is-a-dev/register/pull/34839#pullrequestreview-3987916253) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34839](https://github.com/is-a-dev/register/pull/34839#discussion_r2971266917) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#34846](https://github.com/is-a-dev/register/pull/34846#pullrequestreview-3987914521) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34846](https://github.com/is-a-dev/register/pull/34846#discussion_r2971264527) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#34843](https://github.com/is-a-dev/register/pull/34843#pullrequestreview-3987911857) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34838](https://github.com/is-a-dev/register/pull/34838#issuecomment-4105815886) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -20,4 +19,5 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [solusipse/fiche](https://github.com/solusipse/fiche)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#54](https://github.com/partofmyid/register/pull/54#issuecomment-4103432086) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [astro/deadnix](https://github.com/astro/deadnix)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#51](https://github.com/partofmyid/register/issues/51#issuecomment-4103130032) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 <!--RECENT_ACTIVITY:end-->
