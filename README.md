@@ -6,10 +6,11 @@
 > **all actively developed and future repositories will be migrated on to [my self hosted forgejo instance](https://git.satr14.my.id/).**
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 22nd March, 2026
+###### Activities @ 23rd March, 2026
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/zyrocfnd/freedomain/issues/1#issuecomment-4107398297) **|** [zyrocfnd/freedomain](https://github.com/zyrocfnd/freedomain)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#34839](https://github.com/is-a-dev/register/pull/34839#pullrequestreview-3987916253) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34839](https://github.com/is-a-dev/register/pull/34839#discussion_r2971266917) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34846](https://github.com/is-a-dev/register/pull/34846#discussion_r2971264527) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -19,5 +20,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [solusipse/fiche](https://github.com/solusipse/fiche)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#54](https://github.com/partofmyid/register/pull/54#issuecomment-4103432086) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [astro/deadnix](https://github.com/astro/deadnix)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#51](https://github.com/partofmyid/register/issues/51#issuecomment-4103130032) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 <!--RECENT_ACTIVITY:end-->
