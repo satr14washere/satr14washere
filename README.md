@@ -10,14 +10,14 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#34970](https://github.com/is-a-dev/register/pull/34970#pullrequestreview-4017881354) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#34969](undefined) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#34967](https://github.com/is-a-dev/register/pull/34967#pullrequestreview-4017875152) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#34968](https://github.com/is-a-dev/register/pull/34968#pullrequestreview-4017858924) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34968](https://github.com/is-a-dev/register/pull/34968#discussion_r2998111947) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34963](https://github.com/is-a-dev/register/pull/34963#issuecomment-4138834725) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34963](https://github.com/is-a-dev/register/pull/34963#discussion_r2998104695) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [umami-software/umami](https://github.com/umami-software/umami)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [publicsuffix/list](https://github.com/publicsuffix/list)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#35133](https://github.com/is-a-dev/register/pull/35133#pullrequestreview-4003364268) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [EducatedSuddenBucket/chess.is-a.dev](https://github.com/EducatedSuddenBucket/chess.is-a.dev)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/zyrocfnd/freedomain/issues/1#issuecomment-4122441220) **|** [zyrocfnd/freedomain](https://github.com/zyrocfnd/freedomain)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/zyrocfnd/freedomain/issues/1#issuecomment-4122427797) **|** [zyrocfnd/freedomain](https://github.com/zyrocfnd/freedomain)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#35129](https://github.com/is-a-dev/register/pull/35129#issuecomment-4122424843) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#35129](https://github.com/is-a-dev/register/pull/35129#issuecomment-4122405444) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/zyrocfnd/freedomain/issues/1#issuecomment-4114966868) **|** [zyrocfnd/freedomain](https://github.com/zyrocfnd/freedomain)<br>
 <!--RECENT_ACTIVITY:end-->
