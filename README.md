@@ -12,14 +12,14 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#35598](undefined) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#35598](https://github.com/is-a-dev/register/pull/35598#issuecomment-4174427572) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#35604](https://github.com/is-a-dev/register/pull/35604#issuecomment-4174420454) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#35608](https://github.com/is-a-dev/register/pull/35608#issuecomment-4174411642) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#35607](https://github.com/is-a-dev/register/pull/35607#issuecomment-4174406176) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#35479](https://github.com/is-a-dev/register/pull/35479#pullrequestreview-4048149414) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [lyoshenka/awesome-motherfucking-website](https://github.com/lyoshenka/awesome-motherfucking-website)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#35198](https://github.com/is-a-dev/register/pull/35198#issuecomment-4159803697) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#35197](https://github.com/is-a-dev/register/pull/35197#issuecomment-4159801466) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#35321](https://github.com/is-a-dev/register/pull/35321#issuecomment-4147979165) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#35316](https://github.com/is-a-dev/register/pull/35316#issuecomment-4147978509) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#35316](undefined) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#35316](https://github.com/is-a-dev/register/pull/35316#pullrequestreview-4025537194) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#35321](undefined) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#35321](https://github.com/is-a-dev/register/pull/35321#issuecomment-4147972937) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
