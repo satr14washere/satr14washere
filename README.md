@@ -14,7 +14,6 @@
 <!--RECENT_ACTIVITY:start-->
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#36155](undefined) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#36155](https://github.com/is-a-dev/register/pull/36155#issuecomment-4227652208) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#36154](https://github.com/is-a-dev/register/pull/36154#pullrequestreview-4093071886) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#36154](https://github.com/is-a-dev/register/pull/36154#discussion_r3067326528) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#36151](https://github.com/is-a-dev/register/pull/36151#issuecomment-4227596497) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#36147](https://github.com/is-a-dev/register/pull/36147#issuecomment-4227592566) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -22,4 +21,5 @@
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#36143](https://github.com/is-a-dev/register/pull/36143#pullrequestreview-4093056922) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#36142](https://github.com/is-a-dev/register/pull/36142#issuecomment-4227577036) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#36140](https://github.com/is-a-dev/register/pull/36140#pullrequestreview-4093050770) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [yushijinhun/authlib-injector](https://github.com/yushijinhun/authlib-injector)<br>
 <!--RECENT_ACTIVITY:end-->
