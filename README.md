@@ -12,6 +12,8 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [xandergos/terrain-diffusion](https://github.com/xandergos/terrain-diffusion)<br>
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [xandergos/terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [brucethemoose/Minecraft-Performance-Flags-Benchmarks](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#37428](https://github.com/is-a-dev/register/pull/37428#pullrequestreview-4242271590) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#37428](https://github.com/is-a-dev/register/pull/37428#discussion_r3199936630) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -20,6 +22,4 @@
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#37432](https://github.com/is-a-dev/register/pull/37432#pullrequestreview-4242222689) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#55](https://github.com/partofmyid/register/pull/55#pullrequestreview-4217427911) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#55](https://github.com/partofmyid/register/pull/55#pullrequestreview-4216531026) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#55](https://github.com/partofmyid/register/pull/55#discussion_r3178395994) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#55](https://github.com/partofmyid/register/pull/55#issuecomment-4366554504) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 <!--RECENT_ACTIVITY:end-->
