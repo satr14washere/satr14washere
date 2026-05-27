@@ -12,14 +12,14 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#39416](https://github.com/is-a-dev/register/pull/39416#pullrequestreview-4372063785) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#39414](https://github.com/is-a-dev/register/pull/39414#pullrequestreview-4372057322) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#39414](https://github.com/is-a-dev/register/pull/39414#discussion_r3310576551) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#39411](https://github.com/is-a-dev/register/pull/39411#pullrequestreview-4372021464) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#39405](https://github.com/is-a-dev/register/pull/39405#issuecomment-4554114040) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#39403](https://github.com/is-a-dev/register/pull/39403#issuecomment-4554098039) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ComunidadAylas/PackSquash](https://github.com/ComunidadAylas/PackSquash)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tasgon/observable](https://github.com/tasgon/observable)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gekware/minecraft-server-hibernation](https://github.com/gekware/minecraft-server-hibernation)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [TheEpicBlock/PolyMc](https://github.com/TheEpicBlock/PolyMc)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [museofficial/muse](https://github.com/museofficial/muse)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [GGSkyOne/alternative-authentication](https://github.com/GGSkyOne/alternative-authentication)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [xandergos/terrain-diffusion](https://github.com/xandergos/terrain-diffusion)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [xandergos/terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [brucethemoose/Minecraft-Performance-Flags-Benchmarks](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks)<br>
 <!--RECENT_ACTIVITY:end-->
