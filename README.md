@@ -12,6 +12,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#58](https://github.com/partofmyid/register/pull/58#issuecomment-4571057956) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#39416](https://github.com/is-a-dev/register/pull/39416#pullrequestreview-4372063785) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#39414](https://github.com/is-a-dev/register/pull/39414#pullrequestreview-4372057322) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#39414](https://github.com/is-a-dev/register/pull/39414#discussion_r3310576551) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -21,5 +22,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ComunidadAylas/PackSquash](https://github.com/ComunidadAylas/PackSquash)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tasgon/observable](https://github.com/tasgon/observable)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gekware/minecraft-server-hibernation](https://github.com/gekware/minecraft-server-hibernation)<br>
 <!--RECENT_ACTIVITY:end-->
