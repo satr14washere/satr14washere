@@ -12,6 +12,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ex18a/pwnagotchi64](https://github.com/ex18a/pwnagotchi64)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#59](https://github.com/partofmyid/register/pull/59#pullrequestreview-4501849551) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)<br>
@@ -21,5 +22,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#40719](https://github.com/is-a-dev/register/pull/40719#issuecomment-4698336735) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#273](https://github.com/NikitaCartes/EasyAuth/issues/273#issuecomment-4687692029) **|** [NikitaCartes/EasyAuth](https://github.com/NikitaCartes/EasyAuth)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#59](https://github.com/partofmyid/register/pull/59#pullrequestreview-4454075620) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#59](https://github.com/partofmyid/register/pull/59#discussion_r3376899195) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 <!--RECENT_ACTIVITY:end-->
