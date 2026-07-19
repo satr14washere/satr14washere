@@ -12,6 +12,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#44030](https://github.com/is-a-dev/register/pull/44030#issuecomment-5015172466) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#43622](undefined) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#43622](https://github.com/is-a-dev/register/pull/43622#pullrequestreview-4694663689) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#43622](https://github.com/is-a-dev/register/pull/43622#discussion_r3579309445) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -21,5 +22,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#511131](https://github.com/NixOS/nixpkgs/pull/511131#issuecomment-4915226119) **|** [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#65](https://github.com/partofmyid/register/pull/65#issuecomment-4914452759) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#65](https://github.com/partofmyid/register/pull/65#pullrequestreview-4653771915) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#64](https://github.com/partofmyid/register/pull/64#issuecomment-4911796681) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 <!--RECENT_ACTIVITY:end-->
