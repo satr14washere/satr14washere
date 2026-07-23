@@ -12,6 +12,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [is-a-dev/raw-api](https://github.com/is-a-dev/raw-api)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#66](https://github.com/partofmyid/register/pull/66#pullrequestreview-4753251849) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#44511](https://github.com/is-a-dev/register/pull/44511#pullrequestreview-4750532091) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#44511](https://github.com/is-a-dev/register/pull/44511#discussion_r3627048433) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -21,5 +22,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#44030](https://github.com/is-a-dev/register/pull/44030#issuecomment-5015172466) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#43622](undefined) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#43622](https://github.com/is-a-dev/register/pull/43622#pullrequestreview-4694663689) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#43622](https://github.com/is-a-dev/register/pull/43622#discussion_r3579309445) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
