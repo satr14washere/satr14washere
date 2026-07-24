@@ -12,6 +12,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#44719](https://github.com/is-a-dev/register/pull/44719#pullrequestreview-4777335101) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SPlayer-Dev/SPlayer-Next](https://github.com/SPlayer-Dev/SPlayer-Next)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [is-a-dev/raw-api](https://github.com/is-a-dev/raw-api)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#66](https://github.com/partofmyid/register/pull/66#pullrequestreview-4753251849) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
@@ -21,5 +22,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [hexaaagon/claisse](https://github.com/hexaaagon/claisse)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [hexaaagon/project-clarias](https://github.com/hexaaagon/project-clarias)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#44030](https://github.com/is-a-dev/register/pull/44030#issuecomment-5015172466) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#43622](undefined) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
