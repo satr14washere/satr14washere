@@ -12,6 +12,8 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#504](https://github.com/ViaVersion/ViaFabric/issues/504#issuecomment-5156941843) **|** [ViaVersion/ViaFabric](https://github.com/ViaVersion/ViaFabric)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#504](https://github.com/ViaVersion/ViaFabric/issues/504#issuecomment-5156876115) **|** [ViaVersion/ViaFabric](https://github.com/ViaVersion/ViaFabric)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#504](https://github.com/ViaVersion/ViaFabric/issues/504#issuecomment-5156430685) **|** [ViaVersion/ViaFabric](https://github.com/ViaVersion/ViaFabric)<br>
 - ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#504](https://github.com/ViaVersion/ViaFabric/issues/504) **|** [ViaVersion/ViaFabric](https://github.com/ViaVersion/ViaFabric)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy)<br>
@@ -20,6 +22,4 @@
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#45154](https://github.com/is-a-dev/register/pull/45154#pullrequestreview-4802960378) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#45150](https://github.com/is-a-dev/register/pull/45150#pullrequestreview-4802956799) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#45148](https://github.com/is-a-dev/register/pull/45148#pullrequestreview-4799323817) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#13](undefined) **|** [skyfallwastaken/webring-v2](https://github.com/skyfallwastaken/webring-v2)<br>
-- ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#44726](https://github.com/is-a-dev/register/pull/44726#pullrequestreview-4777354068) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
