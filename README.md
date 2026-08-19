@@ -12,6 +12,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#47736](https://github.com/is-a-dev/register/pull/47736#pullrequestreview-4977596798) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#47610](https://github.com/is-a-dev/register/pull/47610#pullrequestreview-4973466862) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#47958](https://github.com/is-a-dev/register/pull/47958#pullrequestreview-4973295477) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#47694](https://github.com/is-a-dev/register/pull/47694#pullrequestreview-4954986485) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -21,5 +22,4 @@
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#47686](https://github.com/is-a-dev/register/pull/47686#pullrequestreview-4954953238) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#47683](https://github.com/is-a-dev/register/pull/47683#pullrequestreview-4954944579) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#47678](undefined) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#47664](https://github.com/is-a-dev/register/pull/47664#pullrequestreview-4954896271) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
