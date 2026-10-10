@@ -12,6 +12,8 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#84](undefined) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [geovedi/indonesian-wordlist](https://github.com/geovedi/indonesian-wordlist)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#83](https://github.com/partofmyid/register/pull/83#discussion_r4219887137) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#83](https://github.com/partofmyid/register/pull/83#discussion_r4219885844) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#83](https://github.com/partofmyid/register/pull/83#discussion_r4219880612) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
@@ -20,6 +22,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#83](https://github.com/partofmyid/register/pull/83#discussion_r4219884504) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#83](https://github.com/partofmyid/register/pull/83#pullrequestreview-5457761761) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#83](undefined) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches)<br>
 <!--RECENT_ACTIVITY:end-->
