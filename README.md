@@ -8,10 +8,11 @@
 [![Hackatime Heatmap](https://heatmap.shymike.dev?id=801&timezone=Asia%2FJakarta&cell_size=8&padding=4&rounding=40&labels=true&theme=catppuccin_dark)](https://heatmap.shymike.dev?id=801&timezone=Asia%2FJakarta&cell_size=8&padding=4&rounding=40&labels=true&theme=catppuccin_dark&standalone=true)
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 13th October, 2026
+###### Activities @ 14th October, 2026
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#92](https://github.com/partofmyid/register/pull/92#pullrequestreview-5511598268) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [morluto/rea](https://github.com/morluto/rea)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#91](https://github.com/partofmyid/register/pull/91#pullrequestreview-5497510409) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#90](https://github.com/partofmyid/register/pull/90#pullrequestreview-5489749349) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
@@ -21,5 +22,4 @@
 - ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#88](undefined) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#87](undefined) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#87](https://github.com/partofmyid/register/pull/87#issuecomment-6108721926) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#86](https://github.com/partofmyid/register/pull/86#pullrequestreview-5483171592) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 <!--RECENT_ACTIVITY:end-->
