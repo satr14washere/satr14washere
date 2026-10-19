@@ -12,6 +12,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#95](https://github.com/partofmyid/register/pull/95#pullrequestreview-5566546931) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#94](https://github.com/partofmyid/register/pull/94#issuecomment-6233469196) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#94](undefined) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
@@ -21,5 +22,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#93](https://github.com/partofmyid/register/pull/93#discussion_r4302407509) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [jngo102/Silksong.LostSinner](https://github.com/jngo102/Silksong.LostSinner)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [morluto/rea](https://github.com/morluto/rea)<br>
 <!--RECENT_ACTIVITY:end-->
