@@ -12,6 +12,9 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#101](https://github.com/partofmyid/register/pull/101#pullrequestreview-5794618268) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#101](https://github.com/partofmyid/register/pull/101#issuecomment-6674459928) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
+- ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#103](https://github.com/partofmyid/register/pull/103#pullrequestreview-5794605028) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#101](https://github.com/partofmyid/register/pull/101#issuecomment-6607878016) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#102](undefined) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#102](https://github.com/partofmyid/register/pull/102#issuecomment-6607940062) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
@@ -19,7 +22,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#100](https://github.com/partofmyid/register/pull/100#issuecomment-6519285557) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#100](undefined) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#99](https://github.com/partofmyid/register/pull/99#issuecomment-6501071733) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#99](undefined) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#98](https://github.com/partofmyid/register/pull/98#pullrequestreview-5668492829) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#97](https://github.com/partofmyid/register/pull/97#pullrequestreview-5645556835) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 <!--RECENT_ACTIVITY:end-->
